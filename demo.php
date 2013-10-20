@@ -17,6 +17,8 @@
 	<p>
 		You're a <?=$person_type?>
 	</p>
+
+	Your total is <?=calculate_total(10, 3, 'express')?>
 </body>
 
 </html>
