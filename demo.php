@@ -13,6 +13,10 @@
 
 
 	this should work now
+
+	<p>
+		You're a <?=$person_type?>
+	</p>
 </body>
 
 </html>
